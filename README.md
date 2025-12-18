@@ -1,0 +1,2 @@
+# Riesgo-Clim-tico-Super-Resoluci-n-AI-Downscaling-Climate-change-review-25-x-5-x-1-km-2025-2060
+Análisis geoespacial avanzado que utiliza Machine Learning (Random Forest) en Google Earth Engine para evaluar el riesgo de amenazas climáticas extremas tormentas en Ecuador, implementando una técnica de Downscaling Estadístico Topográfico GMC 25km hasta 1km, integrando la física de la atmósfera, la orografía y la vulnerabilidad
